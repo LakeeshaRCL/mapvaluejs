@@ -1,13 +1,15 @@
 {
   "name": "mapvaluejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": ["map"],
+  "keywords": [
+    "map"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
